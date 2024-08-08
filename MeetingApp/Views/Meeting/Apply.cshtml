@@ -1,0 +1,34 @@
+@model MeetingApp.Models.UserInfo
+
+<h1 class="h4 text-center">Toplantı Katılım Formu</h1>
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Ad Soyad</label>
+        <input asp-for="Name" class="form-control">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label">Telefon</label>
+        <input asp-for="Phone" class="form-control">
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">EPosta</label>
+        <input asp-for="Email" class="form-control">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="WillAttend" class="form-label">Katılım Durumu</label>
+        <select asp-for="WillAttend" class="form-select">
+            <option value="true">Evet</option>
+            <option value="false">Hayır</option>
+        </select>
+        <span asp-validation-for="WillAttend" class="text-danger"></span>
+    </div>
+
+    <button class="btn btn-primary" type="submit">Kaydet</button>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,32 @@
+@using EfCoreApp.Models.Data
+@model IEnumerable<EfCoreApp.Models.Data.Ogrenci>
+
+<h2>Öğrenci Listesi</h2>
+<a href="/Ogrenci/Create" class="btn btn-primary">Öğrenci Ekle</a>
+<hr>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.First().OgrenciAd)</th>
+            <th>@Html.DisplayNameFor(m => m.First().OgrenciSoyad)</th>
+            <th>@Html.DisplayNameFor(m => m.First().EPosta)</th>
+            <th>@Html.DisplayNameFor(m => m.First().Telefon)</th>
+            <th style="width: 150px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.OgrenciAd)</td>
+                <td>@Html.DisplayFor(modelItem => item.OgrenciSoyad)</td>
+                <td>@Html.DisplayFor(modelItem => item.EPosta)</td>
+                <td>@Html.DisplayFor(modelItem => item.Telefon)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.OgrenciId" class="btn btn-sm btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.OgrenciId" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

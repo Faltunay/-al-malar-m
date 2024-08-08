@@ -1,0 +1,31 @@
+@model List<UserInfo>
+
+    <main class="text-center">
+        <h1 class="h4">Toplantı Katılım Listesi</h1>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Ad</th>
+                    <th>Katılım Durumu</th>
+                    <th>Detay</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    var className = user.WillAttend ? "table-success" : "table-danger";
+                    <tr class="@className">
+                        <td>@user.Name</td>
+                        <td>@(user.WillAttend ? "Katılacak" : "Katılmayacak")</td>
+                        <td><a class="btn btn-sm btn-primary" href="/meeting/details/@user.Id">Detay</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="card">
+            <div class="card-body">
+                <p>Katılımcı Sayısı: @ViewBag.AttendeeCount</p>
+            </div>
+        </div>
+    </main>
+    

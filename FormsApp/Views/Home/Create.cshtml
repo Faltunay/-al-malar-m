@@ -1,0 +1,40 @@
+﻿@model FormsApp.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<form asp-controller="Home" asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Ürün Adı</label>
+        <input asp-for="Name" class="form-control">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Price" class="form-label">Fiyat</label>
+        <input asp-for="Price" class="form-control">
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ImageFile" class="form-label">Resim Dosyası Seçin</label>
+        <input type="file" id="imageFile" name="ImageFile" class="form-control">
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CategoryId" class="form-label">Kategori</label>
+        <select asp-for="CategoryId" asp-items="@ViewBag.Categories" class="form-select">
+            <option value="">Hepsi</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 form-check">
+        <input asp-for="IsActive" class="form-check-input">
+        <label asp-for="IsActive" class="form-check-label">Aktif Mi?</label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

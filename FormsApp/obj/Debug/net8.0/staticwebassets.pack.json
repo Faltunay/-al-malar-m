@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FormsApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FormsApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\15e5aa91-1393-4f95-bb4a-ec4dd4489306.jpg",
+      "PackagePath": "staticwebassets\\img\\15e5aa91-1393-4f95-bb4a-ec4dd4489306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\179b9cae-f017-4db7-b192-397afdce6518.jpg",
+      "PackagePath": "staticwebassets\\img\\179b9cae-f017-4db7-b192-397afdce6518.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\3c334c36-7739-47a6-b549-54c8d282eb4f.jpg",
+      "PackagePath": "staticwebassets\\img\\3c334c36-7739-47a6-b549-54c8d282eb4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\5d0f4ff6-b315-495d-9c2e-4124fddc53ee.png",
+      "PackagePath": "staticwebassets\\img\\5d0f4ff6-b315-495d-9c2e-4124fddc53ee.png"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\657bfff4-3f98-48dc-b369-ae82f7af5989.jpg",
+      "PackagePath": "staticwebassets\\img\\657bfff4-3f98-48dc-b369-ae82f7af5989.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\6697dd18-fb7a-468e-891a-ed923f4832b0.jpg",
+      "PackagePath": "staticwebassets\\img\\6697dd18-fb7a-468e-891a-ed923f4832b0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\79f6e4f7-e0a5-4326-b4c0-6e605aafd3e5.jpg",
+      "PackagePath": "staticwebassets\\img\\79f6e4f7-e0a5-4326-b4c0-6e605aafd3e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\83ca8967-35ff-4b89-9bc1-7d0752404faa.jpg",
+      "PackagePath": "staticwebassets\\img\\83ca8967-35ff-4b89-9bc1-7d0752404faa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\9e598ea1-a2fe-416a-91ff-b7591d9b7018.jpg",
+      "PackagePath": "staticwebassets\\img\\9e598ea1-a2fe-416a-91ff-b7591d9b7018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\b614d146-529e-4173-b73f-6fdbc51ddbb9.jpg",
+      "PackagePath": "staticwebassets\\img\\b614d146-529e-4173-b73f-6fdbc51ddbb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\c2032732-7bf7-47d3-a7b2-e7d3a7937acd.jpg",
+      "PackagePath": "staticwebassets\\img\\c2032732-7bf7-47d3-a7b2-e7d3a7937acd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\c55b5753-f6d1-452a-ab72-aee706c94a57.jpg",
+      "PackagePath": "staticwebassets\\img\\c55b5753-f6d1-452a-ab72-aee706c94a57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\c710a2d5-a304-4dff-bd34-f9020a73027e.jpg",
+      "PackagePath": "staticwebassets\\img\\c710a2d5-a304-4dff-bd34-f9020a73027e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\ca60bae0-aa29-49f8-996c-190fd4e49752.jpg",
+      "PackagePath": "staticwebassets\\img\\ca60bae0-aa29-49f8-996c-190fd4e49752.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\cf895cf9-65f8-43ae-a53e-6c96d54c56b6.jpg",
+      "PackagePath": "staticwebassets\\img\\cf895cf9-65f8-43ae-a53e-6c96d54c56b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\d73fc30e-afe3-41f2-857a-d25b6181d333.jpg",
+      "PackagePath": "staticwebassets\\img\\d73fc30e-afe3-41f2-857a-d25b6181d333.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\de46bcd3-0f25-4a06-8e8e-be4aa6473ab3.jpg",
+      "PackagePath": "staticwebassets\\img\\de46bcd3-0f25-4a06-8e8e-be4aa6473ab3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\de835057-45cf-4e4b-8cab-00ce2e2e8700.jpg",
+      "PackagePath": "staticwebassets\\img\\de835057-45cf-4e4b-8cab-00ce2e2e8700.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\df53ca19-ccc4-4a2e-9200-af57b527f404.jpg",
+      "PackagePath": "staticwebassets\\img\\df53ca19-ccc4-4a2e-9200-af57b527f404.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\e71cd2bc-f781-428e-9464-b61561d93aa6.png",
+      "PackagePath": "staticwebassets\\img\\e71cd2bc-f781-428e-9464-b61561d93aa6.png"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\img\\f50ec669-28b7-4c09-804a-3df8d4f37086.png",
+      "PackagePath": "staticwebassets\\img\\f50ec669-28b7-4c09-804a-3df8d4f37086.png"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\faltu\\OneDrive\\Masaüstü\\UdemyKurs\\FormsApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FormsApp.props",
+      "PackagePath": "build\\FormsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FormsApp.props",
+      "PackagePath": "buildMultiTargeting\\FormsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FormsApp.props",
+      "PackagePath": "buildTransitive\\FormsApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
